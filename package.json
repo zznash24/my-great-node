@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zznash24/my-great-node#readme",
   "dependencies": {
-    "cowsay": "^1.5.0"
+    "cowsay": "^1.2.0"
   }
 }
